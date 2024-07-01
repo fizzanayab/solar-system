@@ -127,7 +127,7 @@ body{
     border-radius: 50%;
     height: 55px;
     width: 55px;
-    border-top-color: transparent;
+    border-top-color: burlywood;
     animation: rotate 2s infinite linear;
     position: absolute;
     left: 672px;
